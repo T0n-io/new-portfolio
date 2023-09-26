@@ -1,10 +1,10 @@
 ---
 title: Markdown Mystery Tour
 publishDate: 2020-03-02 00:00:00
-img: /new-portfolio/assets/stock-1.jpg
+img: /assets/stock-1.jpg
 img_alt: CHANGER ALT
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  CHANGE to introduce Markdown formatting. Suspense — suspicion — syntax!
 tags:
   - Design
   - Dev
