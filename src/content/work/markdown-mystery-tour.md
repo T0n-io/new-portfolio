@@ -1,35 +1,37 @@
 ---
-title: Markdown Mystery Tour
+title: INCREDIBIKE
 publishDate: 2020-03-02 00:00:00
-img: /new-portfolio/assets/stock-1.jpg
-img_alt: CHANGER ALT
+img: /new-portfolio/assets/Page-accueil-INCREDIBIKE.png
+img_alt: Page d'accueil du site React Incredibike
 description: |
-  CHANGE to introduce Markdown formatting. Suspense — suspicion — syntax!
+  useContext, react-router dom, styled component, react-transition-group
 tags:
-  - Design
-  - Dev
-  - User Testing
+  - React
+  - Vite.js
+  - Styled-Component
+  - Firebase
+  - Clean Code
 ---
 
-## Level-two heading
+## INCREDIBIKE: Un Site Web Ultraréactif
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+> Créer, gérer, et animer avec fluidité et efficacité.
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+Incredibike est un site web développé avec React et Vite.js, conçu pour permettre une gestion intuitive et dynamique des produits. Les utilisateurs peuvent non seulement ajouter et supprimer des produits dans un panier, mais également, en mode admin, créer de nouveaux produits et modifier des produits existants. **Le site offre une actualisation en temps réel de toutes modifications**, tant dans l'affichage que dans la base de données, grâce à l'utilisation des hooks React.
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
 
-### Level-three heading
+### Fonctionnalités Clés
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
+Le site propose une variété de fonctionnalités telles que l'ajout de produits dans un panier, la création et modification de produits en mode Admin, et des animations fluides réalisées avec **react-transition-group**. Toutes ces fonctionnalités sont conçues pour offrir une expérience utilisateur optimale et une interaction dynamique avec l'interface.
 
-### Level-three heading
+### Technologies et Outils
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+Incredibike utilise des technologies avancées telles que **React** pour le développement frontend, **Vite.js** pour l'optimisation de la performance, et **Firebase** pour la gestion de la base de données. Ces technologies permettent de réaliser des opérations CRUD (Create, Read, Update, Delete) efficaces et de maintenir une synchronisation parfaite entre la base de données et l'état de l'application.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+#### Points Notables
 
-#### Level-four heading
+- **Utilisation intensive des Hooks React** pour une gestion optimale de l'état local des composants.
+- Mise en place d'une **gestion de l'état global** robuste pour une synchronisation efficace entre les différents composants.
+- Intégration réussie de Firebase pour une gestion efficace de la base de données.
+- Implémentation d'**animations et transitions fluides** pour améliorer l'expérience utilisateur.
 
-- We noted this
-- And also this other point
