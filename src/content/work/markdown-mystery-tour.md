@@ -1,7 +1,7 @@
 ---
 title: Markdown Mystery Tour
 publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
+img: /new-portfolio/assets/stock-1.jpg
 img_alt: CHANGER ALT
 description: |
   CHANGE to introduce Markdown formatting. Suspense — suspicion — syntax!
