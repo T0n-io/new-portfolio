@@ -1,8 +1,8 @@
 ---
 title: Markdown Mystery Tour
 publishDate: 2020-03-02 00:00:00
-img: /portfolio/assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img: /new-portfolio/assets/stock-1.jpg
+img_alt: CHANGER ALT
 description: |
   We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
 tags:
